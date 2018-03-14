@@ -1,0 +1,16 @@
+{
+  "name": "My Library",
+  "schema_version": "1.0.0",
+  "locked": false,
+  "plugins": {
+    "com.sonburn.sketchplugins.symbol-organizer": {
+      "version": ">=14.4.0"
+    },
+    "com.andrewfiorillo.sketch.sketch-palettes": {
+      "version": ">=2.13.0"
+    },
+    "com.taptap.ninja.rename-it": {
+      "version": ">=3.7.2"
+    }
+  }
+}
