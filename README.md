@@ -1,7 +1,7 @@
 # pulsar-ui-toolkit
 Pulsar UI Toolkit
 
-## Recommended plugins
+# Recommended plugins
 
 We recommend using [http://sketchpacks.com](SketchPacks) to manage your plugins, import the `plugins.sketchpack` file to get the following plugins:
 
