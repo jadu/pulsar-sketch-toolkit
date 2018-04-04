@@ -41,5 +41,7 @@ The following plusing will make your life easier when designing UIs with the too
 
 If you're developing for the toolkit and adding new symbols, the following plugins will make your life easier.
 
+| Plugin | Use |
+| ---- | ---- |
 | [RenameIt](https://github.com/rodi01/RenameIt) | Batch renaming for layers and artboards |
 | [Symbol Organiser](https://github.com/sonburn/symbol-organizer?ref=thesketchapphub) | Organises the symbols page layout |
