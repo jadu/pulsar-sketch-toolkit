@@ -26,6 +26,8 @@ The Pulsar Toolkit symbols will now be available in your `Insert > Symbols` menu
 
 ![step 5, screenshot showing Pulsar symbols in the symbols menu](https://github.com/jadu/pulsar-sketch-toolkit/blob/master/docs/img/step_5.png)
 
+----
+
 ### Recommended Plugins
 
 The following plusing will make your life easier when designing UIs with the toolkit.
