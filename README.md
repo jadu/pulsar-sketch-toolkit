@@ -28,7 +28,7 @@ The Pulsar Toolkit symbols will now be available in your `Insert > Symbols` menu
 
 ----
 
-## Recommended Plugins
+### Recommended Plugins
 
 The following plusing will make your life easier when designing UIs with the toolkit.
 
@@ -37,7 +37,7 @@ The following plusing will make your life easier when designing UIs with the too
 | [Sketch Iconfont](https://github.com/keremciu/sketch-iconfont) | Easier to find & insert FontAwesome icons |
 | [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) | Import the Pulsar colour scheme file `palettes/pulsar-state-colours.sketchpalette` |
 
-## Recommended Development Plugins
+### Recommended Development Plugins
 
 If you're developing for the toolkit and adding new symbols, the following plugins will make your life easier.
 
