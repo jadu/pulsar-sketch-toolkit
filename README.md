@@ -1,6 +1,6 @@
 # Pulsar Sketch Toolkit
 
-A sketch toolkit for creating high-fidelity user interface mockups using the [Pulsar](https://github.com/jadu/pulsar) design system.
+A sketch toolkit/symbol library for creating high-fidelity user interface mockups using the [Pulsar](https://github.com/jadu/pulsar) design system.
 
 ## Getting Started
 
