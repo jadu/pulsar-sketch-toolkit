@@ -6,9 +6,25 @@ A sketch toolkit for creating high-fidelity user interface mockups using the [Pu
 
 Download and unzip the toolkit from https://github.com/jadu/pulsar-sketch-toolkit/archive/master.zip
 
-Open Sketch, and open the preferences menu by pressing `⌘,` or opening the `Sketch > Preferences` menu from the toolbar.
+Open Sketch, and open the Preferences menu by pressing `⌘,` or opening the `Sketch > Preferences` menu from the toolbar.
 
-![step 1, open the preferences menu](https://github.com/jadu/pulsar-sketch-toolkit/blob/master/docs/img/step_1.png)
+![step 1, screenshot showing the location of the preferences menu](https://github.com/jadu/pulsar-sketch-toolkit/blob/master/docs/img/step_1.png)
+
+In the Preferences menu, go to the 'Libraries' tab, then click the 'Add Library...' button.
+
+![step 2, screenshot showing the libraries menu](https://github.com/jadu/pulsar-sketch-toolkit/blob/master/docs/img/step_2.png)
+
+Browse to the location of the `Pulsar Toolkit.sketch` file you downloaded, select it, and click 'Open'.
+
+![step 3, screenshot showing how to select the toolkit file](https://github.com/jadu/pulsar-sketch-toolkit/blob/master/docs/img/step_3.png)
+
+The Pulsar Toolkit will be added to your available Libraries, make sure the checkbox is selected, and close the Preferences menu.
+
+![step 4, screenshot showing the Pulsar Toolkit in the libraries list](https://github.com/jadu/pulsar-sketch-toolkit/blob/master/docs/img/step_4.png)
+
+The Pulsar Toolkit symbols will now be available in your `Insert > Symbols` menu.
+
+![step 5, screenshot showing Pulsar symbols in the symbols menu](https://github.com/jadu/pulsar-sketch-toolkit/blob/master/docs/img/step_5.png)
 
 ### Recommended Plugins
 
