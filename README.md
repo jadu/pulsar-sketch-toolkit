@@ -32,7 +32,7 @@ The Pulsar Toolkit symbols will now be available in your `Insert > Symbols` menu
 
 The following plusing will make your life easier when designing UIs with the toolkit.
 
-|: Plugin |: Use |
+| Plugin | Use |
 | ---- | ---- |
 | [Sketch Iconfont](https://github.com/keremciu/sketch-iconfont) | Easier to find & insert FontAwesome icons |
 | [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) | Import the Pulsar colour scheme file `palettes/pulsar-state-colours.sketchpalette` |
@@ -41,7 +41,7 @@ The following plusing will make your life easier when designing UIs with the too
 
 If you're developing for the toolkit and adding new symbols, the following plugins will make your life easier.
 
-|: Plugin |: Use |
+| Plugin | Use |
 | ---- | ---- |
 | [RenameIt](https://github.com/rodi01/RenameIt) | Batch renaming for layers and artboards |
 | [Symbol Organiser](https://github.com/sonburn/symbol-organizer?ref=thesketchapphub) | Organises the symbols page layout |
